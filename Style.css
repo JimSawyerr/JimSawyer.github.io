@@ -1,0 +1,91 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Josefin Sans', sans-serif;
+    box-sizing: border-box;
+}
+.app{
+    height: 100vh;
+    width: 100%;
+    background-color: #191919
+    
+}
+h2{
+
+    color: white;
+    font-size: 75px;
+    width: 1130px;
+    margin: 30px auto;
+    text-align: center;
+    font-weight: bold;
+}
+span{
+    color: #f9004d;
+}
+
+
+
+
+input{
+    position: absolute;
+    display: flex;
+cursor: pointer;
+margin:  100px;
+padding: 10px 30px;
+background-color: rgb(255,203,164);
+border: 500px;
+
+}
+
+
+.app{
+    width: 100%;
+    height: 100vh;
+
+    justify-content: center;
+}
+
+.buttonGroup{
+    margin: 150px;
+
+    }
+    button{
+    position: absolute;
+    display: flex;  
+cursor: pointer;
+margin: 0 10px;
+padding: 10px 30px;
+
+background-color: #f9004d;
+color: white;
+text-decoration: 2px solid transparent;
+font-weight: bold;
+padding: 10px 25px;
+border-radius: 30px     ;
+transition: transform .4s;
+
+
+    }
+.button--no{
+    height:3    5px;
+    width: 80px;       
+    right: 45%;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.button--yes{
+    height:3    5px;
+    width: 80px;    
+    right: 54%;
+    font-weight: bold;
+    border-radius: 20px;
+    transition: transform .4s;
+}
+.button--yes:hover{
+    transform: scale(1.2);
+}
+
+
+
+
