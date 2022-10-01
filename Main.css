@@ -8,7 +8,7 @@ box-sizing: border-box;
 .Selection{
     height: 100vh;
     width: 100%;
-    background-image: url(../Calamares/background.jpg);
+   background: #101010;
     background-size: cover;
     background-position: center;
 }
