@@ -13,7 +13,7 @@ b.style.top=j+"px"
 const a = document.querySelector('button.button--yes')
 a.addEventListener("click", Click);
 function Click(){
-   alert('Sa Lunch time mo libre ko hehe ')
+   alert('Sa Lunch time mo libre ko 🙈 ')
     
 
 }
