@@ -13,7 +13,7 @@ b.style.top=j+"px"
 const a = document.querySelector('button.button--yes')
 a.addEventListener("click", Click);
 function Click(){
-   alert('Thank you leigh<3')
+   alert('Thank you shiela qt daw HAHAHA')
     
 
 }
