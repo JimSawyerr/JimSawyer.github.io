@@ -7,7 +7,7 @@
 .app{
     
     
-    background-image: url("ikaw lang.png");
+    background-image: url("halasiya.png");
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
@@ -70,15 +70,15 @@ transition: transform .4s;
 
     }
 .button--no{
-    height:3    5px;
+    height:35px;
     width: 80px;       
-    right: 43%;
+    right: 41%;
     border-radius: 20px;
     font-weight: bold;
 }
 
 .button--yes{
-    height:3    5px;
+    height:35px;
     width: 80px;    
     right: 51%;
     font-weight: bold;
