@@ -13,7 +13,7 @@ b.style.top=j+"px"
 const a = document.querySelector('button.button--yes')
 a.addEventListener("click", Click);
 function Click(){
-   alert("HOYYYY LALA!!!, you know what I've had an incredible time playing valorant with you, and I've really enjoyed your vibe when we're hanging out.. It feels like we're on the same wavelength. But please remember, there's absolutely no pressure at all, and if you're not comfortable with the idea, I completely understand. Let me know what you think!")
+   alert(" Just take you'r time to heal beshiee. i'll stay here. im glad that i met you cuz of you im happy again wag mo muna ako friend zone okay. im gonna take a risk sayo hehe lets vibe together beshiee <3 ")
     
 
 }
