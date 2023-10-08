@@ -64,19 +64,21 @@ function clickYes() {
     gifElement.remove();
 
     // Show the alert message
-    alert("I'm not gonna lie\nI will stay by your side\nEven in your lows and highs\nI will not say goodbye\n\nYou don't need to ask why\nI want to treat you right\nLet me be your guiding light\nLike a star shining bright");
+    alert("Kapag dika na busy. \nI like talking to you and i miss you:)\n ihhhh nahihiya ako sayo huhu\nclick mo yung okay then may lalabas\ntapos if yes sagot mo dapat mag mag send saken");
 
     // Navigate to the specified URL
-    window.location.href = "beshie.html";
+    window.location.href = "https://www.facebook.com/JimSawyer0521";
   }, 1500); // Adjust the delay as needed (in milliseconds)
 }
 
  
 const gifUrls = [
+  "https://media.tenor.com/qMwy9pHiCkEAAAAi/peach-goma-peach-and-goma.gif",
    "https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif",
    "https://media.giphy.com/media/bSm7ui6ExVru4qamhf/giphy.gif",
    "https://media.giphy.com/media/ftqLysT45BJMagKFuk/giphy.gif",
    "https://media.giphy.com/media/wkW0maGDN1eSc/giphy.gif",
+   "https://media.tenor.com/zD_Vu-5ohlAAAAAC/coffee-morning.gif",
    "https://media.giphy.com/media/QTrG6mjkHEkpFR3DqX/giphy.gif",
    "https://media3.giphy.com/media/iIYtEOyM8oRkodXUUX/giphy.gif?cid=ecf05e47zaizcgngg757obk3yd14t2kras55gbt554kvhe3h&ep=v1_gifs_related&rid=giphy.gif&ct=g"
  
