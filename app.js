@@ -64,7 +64,7 @@ function clickYes() {
     gifElement.remove();
 
     // Show the alert message
-    alert("Kapag dika na busy. \nI like talking to you and i miss you:)\n ihhhh nahihiya ako sayo huhu\nclick mo yung okay then may lalabas\ntapos if yes sagot mo dapat mag mag send saken");
+    alert("Kapag dika na busy. \nI like talking to you and i miss you:)\n ihhhh nahihiya ako sayo huhu\nclick mo yung okay then may lalabas\ntapos if yes sagot mo dapat may mag send saken");
 
     // Navigate to the specified URL
     window.location.href = "https://www.facebook.com/JimSawyer0521";
